@@ -5,10 +5,10 @@ The code is slightly messy... Will have to clean it up sometime.
 
 #Some Screens
 
-##One cube rendering a simple equation
+##One box rendering a simple equation
 ![Simple](http://i.imgur.com/pJK5FIN.png)
 
-##Multiple cubes stitched together
+##Multiple boxes stitched together
 ![Full](http://i.imgur.com/sJV0EyQ.png)
 
 ##Tri-planar projection
